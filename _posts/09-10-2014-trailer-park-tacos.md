@@ -18,4 +18,4 @@ color: yellow
 - cucumber
 - cilantro
 - Pepper
-- Cumin
+- Cumin (add more for extra flavor)
